@@ -29,3 +29,5 @@ app.use('/', htmlRoutes);
 
 // Start the server on the port
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
+console.log('API Key:', process.env.OPENWEATHER_API_KEY);

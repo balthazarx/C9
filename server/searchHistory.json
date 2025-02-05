@@ -1,34 +1,22 @@
 [
   {
-    "id": "7f8a9439-c23a-4dec-a50e-2b4a3114002f",
-    "name": "Bonney Lake"
+    "id": "ed88fb65-cf7f-475a-8542-522d4e021c27",
+    "name": "Orlando"
   },
   {
-    "id": "41f6a83e-1e89-4f09-92e9-e74734536532",
+    "id": "ed9f422d-8d03-44d9-885c-5c1d7c2795fe",
+    "name": "Provo"
+  },
+  {
+    "id": "93dbf352-8601-416c-880a-f80a36016d66",
+    "name": "Washington"
+  },
+  {
+    "id": "0c7142ab-e222-4f15-af86-4b8c466cffcd",
+    "name": "San Diego"
+  },
+  {
+    "id": "b58c8909-bb12-4012-af57-1a1e70aaf1cf",
     "name": "Boston"
-  },
-  {
-    "id": "5171b77f-eec3-4dae-8b94-fc9fca0020b4",
-    "name": "Boston"
-  },
-  {
-    "id": "80b45ecd-f80e-48ee-a272-688429aca1ed",
-    "name": "Boston"
-  },
-  {
-    "id": "8ff49b29-27bf-4e9a-84d0-3d43ffb0259c",
-    "name": "Boston"
-  },
-  {
-    "id": "6c5cc608-4a75-4e94-bd55-ca0e23566235",
-    "name": "Boston"
-  },
-  {
-    "id": "752f8888-52fa-4bae-b875-f92a77d6f52c",
-    "name": "Boston"
-  },
-  {
-    "id": "70e83a3e-1a9a-4c4d-8160-1fbb25a647b9",
-    "name": "New York City"
   }
 ]
